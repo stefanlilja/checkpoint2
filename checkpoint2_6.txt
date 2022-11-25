@@ -1,0 +1,4 @@
+Answers:
+ a: git log
+ b: git commit -m "description of commit"
+ c: git init
